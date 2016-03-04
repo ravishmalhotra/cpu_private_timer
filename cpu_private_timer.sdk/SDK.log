@@ -1,0 +1,2 @@
+11:05:47 INFO  : Processing command line option -hwspec C:/Users/ravishm/cpu_private_timer/cpu_private_timer.sdk/design_1_wrapper.hdf.
+11:05:54 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
